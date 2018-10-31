@@ -1,0 +1,34 @@
+.weatherforecast .day {
+  padding-left: 0;
+  padding-right: 25px;
+}
+
+.weatherforecast .weather-icon {
+  padding-right: 20px;
+  text-align: center;
+    
+}
+
+.weatherforecast .min-temp {
+  padding-left: 20px;
+  padding-right: 0;
+}
+
+.weatherforecast .rain {
+  padding-left: 20px;
+  padding-right: 0;
+}
+
+.weatherforecast tr.colored .min-temp {
+    color: #BCDDFF;
+	
+}
+
+.weatherforecast tr td{
+    font-size:1em;
+	
+}
+
+.weatherforecast tr.colored .max-temp {
+    color: #FF8E99;
+}
